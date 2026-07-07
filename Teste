@@ -1,0 +1,686 @@
+Use o prompt abaixo. Ele foi escrito para maximizar as chances de outra IA (como o AI Cowork/Copilot da Microsoft) reproduzir praticamente o mesmo dashboard, mantendo o estilo executivo e a organização visual.
+
+
+
+PROMPT
+
+
+Crie um slide executivo em resolução 1920x1080 (16:9), com aparência de apresentação corporativa de diretoria (estilo McKinsey, BCG, Bain, Deloitte ou Microsoft), minimalista, extremamente limpo, moderno e profissional.
+
+
+Estilo visual
+
+
+
+
+Fundo totalmente branco (#FFFFFF).
+
+
+Muito espaço em branco entre os elementos.
+
+
+Bordas suaves arredondadas (10 a 12 px).
+
+
+Sombras extremamente discretas.
+
+
+Layout perfeitamente alinhado em grid.
+
+
+Utilizar apenas tons de azul corporativo, verde, cinza e amarelo.
+
+
+Nada colorido em excesso.
+
+
+Ícones em outline (traço fino).
+
+
+Fonte semelhante a Segoe UI, Aptos ou Calibri.
+
+
+Hierarquia visual muito clara.
+
+
+
+
+
+Cabeçalho
+
+
+No canto superior esquerdo:
+
+
+Título grande:
+
+
+Evolução de Produtos
+
+
+
+
+Azul escuro
+
+
+Fonte 34-38 px
+
+
+Negrito
+
+
+
+
+Abaixo:
+
+
+Visão geral do andamento da construção dos 38 produtos
+
+
+Fonte cinza escuro
+18 px
+
+
+
+Primeira seção
+
+
+Logo abaixo do título criar um fluxo horizontal ocupando praticamente toda a largura.
+
+
+Cada etapa dentro de um retângulo branco com borda azul clara.
+
+
+Todos possuem um ícone azul.
+
+
+Conectados por setas cinzas.
+
+
+As caixas possuem exatamente o mesmo tamanho.
+
+
+Fluxo:
+
+
+① SPEC
+
+
+Ícone:
+Documento
+
+
+Texto pequeno:
+
+
+Especificação do produto
+
+
+↓
+
+
+② SPECS DE PRODUTO
+
+
+Ícone:
+Vários documentos empilhados
+
+
+Texto:
+
+
+Especificações dos produtos
+
+
+↓
+
+
+③ SPECS DE ELEGIBILIDADE
+
+
+Ícone:
+Pessoa + check
+
+
+Texto:
+
+
+Regras de elegibilidade
+
+
+Adicionar abaixo desta etapa um pequeno selo amarelo escrito:
+
+
+EM CONSTRUÇÃO
+
+
+↓
+
+
+④ CLUSTER
+
+
+Ícone:
+
+
+Rede de nós
+
+
+Texto:
+
+
+Definição de cluster
+
+
+Deixar visualmente em cinza mais claro para indicar que ainda não iniciou.
+
+
+↓
+
+
+⑤ VARIÁVEIS DE CONTEXTO
+
+
+Ícone:
+
+
+Sliders
+
+
+Texto:
+
+
+Variáveis de contexto
+
+
+Também em cinza claro.
+
+
+↓
+
+
+⑥ TABELA FINAL
+
+
+Ícone:
+
+
+Tabela
+
+
+Caixa com borda verde.
+
+
+Texto:
+
+
+Tabela consolidada
+
+
+(única etapa executada apenas uma vez)
+
+
+
+Segunda seção
+
+
+Abaixo do fluxo criar outro fluxo horizontal.
+
+
+Título:
+
+
+Ciclo de desenvolvimento (executado para cada produto)
+
+
+Fluxo:
+
+
+Refinamento
+
+
+↓
+
+
+Desenvolvimento
+
+
+↓
+
+
+Homologação
+
+
+↓
+
+
+Produção
+
+
+Cada etapa possui:
+
+
+ícone outline
+
+
+Refinamento:
+lápis
+
+
+Desenvolvimento:
+engrenagem
+
+
+Homologação:
+escudo com check
+
+
+Produção:
+foguete
+
+
+Conectados por setas cinza.
+
+
+
+Terceira seção
+
+
+Dividir em três grandes painéis.
+
+
+Todos alinhados horizontalmente.
+
+
+
+Painel esquerdo
+
+
+Título:
+
+
+RESUMO GERAL
+
+
+Dentro colocar:
+
+
+Número grande
+
+
+38
+
+
+Produtos totais
+
+
+Abaixo legenda colorida:
+
+
+🟢 2 em produção
+
+
+🔵 26 em homologação
+
+
+🟡 12 em refinamento
+
+
+⚪ Restante ainda não iniciado
+
+
+No rodapé um pequeno box roxo claro.
+
+
+Título:
+
+
+Prototipabilidade
+
+
+Texto:
+
+
+Construída em paralelo para suportar as próximas fases do projeto.
+
+
+Ícone de laboratório.
+
+
+
+Painel central
+
+
+Título:
+
+
+PROGRESSO GERAL
+
+
+Criar um indicador circular (donut chart).
+
+
+Mostrar aproximadamente:
+
+
+74%
+
+
+Concluído
+
+
+Ao lado escrever:
+
+
+28 de 38 produtos já passaram pelas etapas atualmente construídas.
+
+
+Abaixo criar barras horizontais mostrando o avanço das macroetapas.
+
+
+SPEC
+
+
+██████████
+
+
+100%
+
+
+Specs Produto
+
+
+██████████
+
+
+100%
+
+
+Specs Elegibilidade
+
+
+██████░░░░
+
+
+68%
+
+
+Status abaixo:
+
+
+Em construção
+
+
+Cluster
+
+
+░░░░░░░░░░
+
+
+0%
+
+
+Variáveis de Contexto
+
+
+░░░░░░░░░░
+
+
+0%
+
+
+No rodapé colocar um box verde.
+
+
+Ícone:
+
+
+seta crescente.
+
+
+Texto:
+
+
+Destaque
+
+
+2 produtos já publicados em Produção
+
+
+26 produtos encontram-se em Homologação
+
+
+12 produtos seguem em Refinamento
+
+
+
+Painel direito
+
+
+Título:
+
+
+STATUS POR ETAPA
+
+
+Criar tabela moderna.
+
+
+Linhas:
+
+
+SPEC
+
+
+Specs Produto
+
+
+Specs Elegibilidade
+
+
+Cluster
+
+
+Variáveis Contexto
+
+
+Colunas:
+
+
+Produção
+
+
+Homologação
+
+
+Refinamento
+
+
+Não iniciado
+
+
+Total
+
+
+Valores:
+
+
+SPEC
+
+
+Produção: 2
+
+
+Homologação: 26
+
+
+Refinamento: 12
+
+
+Não iniciado: 0
+
+
+Total: 38
+
+
+Specs Produto
+
+
+Produção: 2
+
+
+Homologação: 26
+
+
+Refinamento: 12
+
+
+Não iniciado: 0
+
+
+Total: 38
+
+
+Specs Elegibilidade
+
+
+Produção: 0
+
+
+Homologação: 0
+
+
+Refinamento: 38
+
+
+Não iniciado: 0
+
+
+Total: 38
+
+
+Cluster
+
+
+Produção: 0
+
+
+Homologação: 0
+
+
+Refinamento: 0
+
+
+Não iniciado: 38
+
+
+Total: 38
+
+
+Variáveis de Contexto
+
+
+Produção: 0
+
+
+Homologação: 0
+
+
+Refinamento: 0
+
+
+Não iniciado: 38
+
+
+Total: 38
+
+
+Utilizar números coloridos:
+
+
+Verde
+
+
+Azul
+
+
+Amarelo
+
+
+Cinza
+
+
+
+Rodapé
+
+
+Criar uma faixa horizontal azul muito clara.
+
+
+À esquerda um ícone de alvo.
+
+
+Texto:
+
+
+Objetivo
+
+
+Entregar os 38 produtos seguindo um fluxo padronizado, garantindo qualidade, rastreabilidade e escalabilidade da solução.
+
+
+
+Diretrizes de Design
+
+
+O dashboard deve parecer um slide real de apresentação para diretoria.
+
+
+Evitar aparência de infográfico infantil.
+
+
+Evitar excesso de cores.
+
+
+Usar apenas:
+
+
+
+
+Azul corporativo (#0F4C81)
+
+
+Verde (#2E7D32)
+
+
+Amarelo (#F9A825)
+
+
+Cinza (#BDBDBD)
+
+
+
+
+Ícones lineares no estilo Microsoft Fluent.
+
+
+Espaçamento uniforme.
+
+
+Tudo perfeitamente alinhado.
+
+
+Visual premium.
+
+
+Sem gráficos 3D.
+
+
+Sem gradientes fortes.
+
+
+Sem elementos decorativos.
+
+
+Resultado esperado: um dashboard executivo que permita, em menos de 10 segundos, entender o progresso dos 38 produtos, identificar a etapa atual do projeto e visualizar claramente que a construção está concentrada até a fase de Specs de Elegibilidade, enquanto Cluster, Variáveis de Contexto e Tabela Final ainda não foram iniciadas.
+
